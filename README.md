@@ -1,3 +1,2 @@
-# MedicalCostAnaylsis\n
-Machine Learning program developed with Python.\n
+# MedicalCostAnaylsis
 The Datasets i used: https://www.kaggle.com/datasets/mirichoi0218/insurance
